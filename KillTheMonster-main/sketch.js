@@ -35,7 +35,7 @@ function setup() {
   block12 = new Block(400,315,30,40);
   block13 = new Block(430,315,30,40);
   block14 = new Block(460,315,30,40);
-  monster = new Monster(380,200,100,100);
+  monster = new Monster(380,5,100,100);
   
   
 
